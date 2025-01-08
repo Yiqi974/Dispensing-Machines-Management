@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul 30 12:33:31 2022
-
-@author: Brynn
-"""
 import os
 
 def MachineEdit():   
