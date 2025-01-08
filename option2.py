@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug  3 18:05:19 2022
-
-@author: dongdongzheng
-"""
 def Pre_sales_view():
     
     file = []
