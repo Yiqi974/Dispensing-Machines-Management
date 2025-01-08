@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul 30 19:13:08 2022
-
-@author: dongdongzheng
-"""
 from option1 import *
 from option2 import *
 from option3 import *
